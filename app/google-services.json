@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528519497087",
+    "firebase_url": "https://fir-study-b8fc0.firebaseio.com",
+    "project_id": "fir-study-b8fc0",
+    "storage_bucket": "fir-study-b8fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528519497087:android:4b6b94238d2eb3c138464a",
+        "android_client_info": {
+          "package_name": "com.mostafa.firebasestudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528519497087-h19hftofruk8is14nqmc01k3u70suqpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiSJHifTF755vtXl6p9Z_61MZY3qoOVjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528519497087-h19hftofruk8is14nqmc01k3u70suqpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
